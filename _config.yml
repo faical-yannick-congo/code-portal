@@ -3,7 +3,7 @@ author: "LLNL Open Source <open-source@llnl.gov>"
 title: LLNL Software Portal
 description: "Lawrence Livermore National Laboratory Software Portal"
 #remote_theme: LLNL/Jekyll-LLNL-Theme
-theme: nist-software-theme
+remote_theme: usnistgov/nist-software-theme
 
 url: "https://software.llnl.gov"
 repo_url: "https://github.com/faical-yannick-congo.github.io/code-portal"
@@ -12,8 +12,8 @@ repo_url: "https://github.com/faical-yannick-congo.github.io/code-portal"
 piwik_id: 250
 
 # Google Analytics ID
-google_analytics:
-  tracking_id: UA-75179431-1
+#google_analytics:
+#  tracking_id: UA-75179431-1
 
 # Twitter username (used by jekyll-seo-tag)
 twitter:
