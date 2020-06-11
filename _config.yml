@@ -20,7 +20,7 @@ twitter:
   username: llnl_opensource
 
 # GitHub Metadata -- https://github.com/jekyll/github-metadata
-repository: llnl/llnl.github.io
+repository: faical-yannick-congo/code-portal
 plugins:
   - jekyll-github-metadata
   - jekyll-seo-tag
