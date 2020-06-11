@@ -6,7 +6,7 @@ description: "Lawrence Livermore National Laboratory Software Portal"
 theme: nist-software-theme
 
 url: "https://software.llnl.gov"
-repo_url: "https://github.com/LLNL/llnl.github.io"
+repo_url: "https://github.com/faical-yannick-congo.github.io/code-portal"
 
 # LLNL Piwik Analytics https://analytics.llnl.gov
 piwik_id: 250
